@@ -25,7 +25,7 @@ A logistics company requires greater visibility into the performance of its hubs
 This project is provided as a Power BI Desktop (.pbix) file and is intended to be viewed locally using Power BI Desktop.
 
 To explore the dashboard:
-1. Download the Logistics LogisticsCompanyReport.pbix file from this repository
+1. Download the LogisticsCompanyReport.pbix file from this repository
 2. Open the file using Power BI Desktop
 3. Navigate between report pages using the navigation buttons
 4. Use the interactive slicers and visuals to explore the dashboard and its insights
