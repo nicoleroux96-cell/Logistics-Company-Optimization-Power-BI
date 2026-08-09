@@ -59,7 +59,7 @@ Provides an overview of the company's operational performance across the 2023 an
 
 As the primary landing page of the report, it allows users to quickly assess key performance indicators and identify operational trends before exploring more detailed analyses on the Hubs, Drivers, Vehicles, and Insights pages.
 
-SCREENSHOTTTTTTTTTTTTTTTTTTTTT
+![Power BI Data Model](screenshots/02_Home.png)
 
 Key Features
 - The navigation buttons on the left side enable users to move seamlessly between report pages 
@@ -71,7 +71,7 @@ Key Features
 
 Provides a detailed analysis of the company's logistics hubs across the 2023 and 2024 calendar years, or over a user-selected time period. This page enables users to evaluate hub capacity, performance, and operational efficiency, helping identify operational bottlenecks and opportunities for improvement.
 
-SCREENSHOTTTTTTTTTTTTTTTTTTTTT
+![Power BI Data Model](screenshots/03_Hubs_Overview.png)
 
 Key Features
 - The year and month slicers on the left allow users to analyze hub performance over a user-selected time period, or across the full 2 year reporting period
@@ -82,7 +82,7 @@ Key Features
 
 Provides a detailed analysis of the company's delivery drivers across the 2023 and 2024 calendar years, or over a user-selected time period. This page enables users to evaluate driver performance/ratings, experience, and delivery reliability, helping identify performance trends and opportunities for improvement.
 
-SCREENSHOTTTTTTTTTTTTTTTTTTTTT
+![Power BI Data Model](screenshots/04_Drivers_Overview.png)
 
 Key Features
 - The performance ratings vs years of experience plot is not affected by any slicers, and is for all drivers over both calendar years
@@ -94,7 +94,7 @@ Key Features
 
 Provides a detailed analysis of the company's vehicle fleet across the 2023 and 2024 calendar years, or over a user-selected time period. This page enables users to evaluate vehicle utilization, reliability, and maintenance performance, helping identify trends and opportunities to improve fleet efficiency.
 
-SCREENSHOTTTTTTTTTTTTTTTTTTTTT
+![Power BI Data Model](screenshots/05_Vehicles_Overview.png)
 
 Key Features
 - The Year and month slicers on the left panel affect only the donut and bar chart, which allows the user to analyze the breakdown of deliveries by vehicle type and model over a user-selected time period, or across the full 2 year reporting period
@@ -104,7 +104,7 @@ Key Features
 
 Summarizes the most significant findings identified throughout the dashboard analysis and presents corresponding recommendations to support data-driven operational decision-making. This page consolidates insights across logistics hubs, delivery drivers, and the vehicle fleet into a single executive summary.
 
-SCREENSHOTTTTTTTTTTTTTTTTTTTTT
+![Power BI Data Model](screenshots/06_Insights.png)
 
 Key Features
 - Organizes findings into dedicated Hubs, Drivers, and Vehicles sections for easy interpretation
@@ -135,7 +135,7 @@ The model consists of one central fact table (Orders) connected to four dimensio
 
 To support robust time-intelligence analysis, a dedicated Date table was created using DAX and linked to the Orders table. This enabled monthly trend analysis, year-over-year comparisons, and consistent date filtering throughout the report.
 
-INSERT PIC OF TABLES WITH CONNECTING LINES 
+![Power BI Data Model](screenshots/01_Data_Model.png)
 
 ### DAX Measures
 
