@@ -163,7 +163,7 @@ This report successfully addresses the original business problem, culminating in
 
 ## Acknowledgements
 
-The fictional logistics dataset used in this project was obtained from a publicly available Power BI dataset created by Rishav Sinha
+The fictional logistics dataset used in this project was obtained from a publicly available Power BI dataset created by Rishav Sinha.
 
 https://drive.google.com/drive/folders/17KcO04dPNRjJUaACV-ZSH1Iz7d_ibKn5
 
