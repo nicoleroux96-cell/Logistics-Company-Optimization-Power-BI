@@ -1,6 +1,6 @@
 # Logistics Company Optimization
 
-A Power BI report for a fictional logistics company that analyzes hub performance, driver performance, and fleet reliability.
+An end-to-end Microsoft Excel and Power BI analysis of a fictional logistics company, evaluating hub performance, driver performance, and fleet reliability.
 
 ## Project Overview
 
