@@ -26,7 +26,7 @@ This project is provided as a Power BI Desktop (.pbix) file and is intended to b
 
 To explore the dashboard:
 1. Download the LogisticsCompanyReport.pbix file from this repository
-1. [Download the Power BI file](../LogisticsCompanyReport.pbix)
+1. [Download the Power BI file](/LogisticsCompanyReport.pbix)
 3. Open the file using Power BI Desktop
 4. Navigate between report pages using the navigation buttons
 5. Use the interactive slicers and visuals to explore the dashboard and its insights
