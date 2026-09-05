@@ -114,7 +114,7 @@ Key Features
 
 ## Technical Implementation
 
-### Data Preparation
+### Data Preparation and Cleaning
 
 The original dataset was provided as four CSV files (Drivers, Hubs, Orders, and Vehicles). Each file was initially reviewed in Microsoft Excel, converted into an Excel Table, and imported into Power BI.
 
